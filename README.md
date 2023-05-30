@@ -171,6 +171,6 @@ I would like to thank Microverse for the materials
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/kessie2862/portfolio/blob/mobile/LICENSE.md) licensed.
+This project is [MIT](https://github.com/musangamfure/math-magicians-app/blob/main/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
