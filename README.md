@@ -15,7 +15,7 @@
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
-  - [🚀 Live Demo ](#-live-demo-)
+    <!-- - [🚀 Live Demo ](#-live-demo-) -->
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
@@ -60,11 +60,11 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
+<!-- LIVE DEMO
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://google.com)
+- [Live Demo Link](https://google.com) -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -147,7 +147,7 @@ You can deploy this project using your own `Github Page`
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/musangamfure/math-magicians-app/issues).
+Feel free to check the [issues page](https://github.com/andrianarivo/math-magicians/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -171,6 +171,6 @@ I would like to thank Microverse for the materials
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/musangamfure/math-magicians-app/blob/main/LICENSE) licensed.
+This project is [MIT](./MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

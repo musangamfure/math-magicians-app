@@ -1,8 +1,13 @@
 import './App.css';
+import React from 'react';
+import Calculator from './components/calculator';
 
 const App = () => (
-  <div className="App">
-    <h1>Mathematics Magicians App</h1>
+  <div className="container">
+    <header className="title">
+      <h1>Math Magicians</h1>
+    </header>
+    <Calculator />
   </div>
 );
 
