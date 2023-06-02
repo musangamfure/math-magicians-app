@@ -1,3 +1,6 @@
-h1 {
-  margin-left: 20px;
+.container {
+  height: 80vh;
+  display: grid;
+  padding: 20px;
+  align-items: center;
 }
