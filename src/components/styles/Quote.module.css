@@ -32,7 +32,8 @@
 .typing::after {
   width: 0.125em;
   background: #344563;
-  animation: typewritting 4s steps(20) 2s forwards,
+  animation:
+    typewritting 4s steps(20) 2s forwards,
     blink 750ms steps(20) infinite;
 }
 
