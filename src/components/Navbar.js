@@ -3,7 +3,6 @@ import { Link } from 'react-router-dom';
 import styles from './styles/navbar.module.css';
 
 const Navbar = () => (
-  //eslint-disable-line
   <header className={styles.navbar}>
     <h1 className={styles.heading}>Math Magicians</h1>
     <ul className={styles.links}>
